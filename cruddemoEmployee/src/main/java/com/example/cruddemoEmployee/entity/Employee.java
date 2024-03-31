@@ -1,4 +1,4 @@
-package entity;
+package com.example.cruddemoEmployee.entity;
 
 import jakarta.persistence.*;
 

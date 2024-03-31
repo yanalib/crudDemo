@@ -1,6 +1,6 @@
 package com.example.cruddemoEmployee.dao;
 
-import entity.Employee;
+import com.example.cruddemoEmployee.entity.Employee;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
 import org.springframework.beans.factory.annotation.Autowired;

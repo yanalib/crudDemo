@@ -1,6 +1,6 @@
 package com.example.cruddemoEmployee.dao;
 
-import entity.Employee;
+import com.example.cruddemoEmployee.entity.Employee;
 import java.util.List;
 
 public interface EmployeeDAO {
