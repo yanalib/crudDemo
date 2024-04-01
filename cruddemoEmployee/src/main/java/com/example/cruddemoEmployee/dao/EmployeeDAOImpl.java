@@ -43,7 +43,7 @@ public class EmployeeDAOImpl implements EmployeeDAO {
     }
 
     @Override
-    public void delete(int id) {
+    public void deleteById(int id) {
         Employee employee  = entityManager.find(Employee.class, id);
         entityManager.remove(employee);
     }
