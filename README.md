@@ -1,4 +1,4 @@
-# crudDemo
+# crudDemo API
 
 Test REST API developed with JAVA Spring Boot, Hibernate and Maven.
 
